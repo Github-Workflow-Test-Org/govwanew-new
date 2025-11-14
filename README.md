@@ -5,7 +5,7 @@ GoVWA (Go Vulnerable Web Application) is a vulnerable web application designed f
 ---
 GoVWA is a vulnerable web application, **Run it only on localsadasddvfvfd
 
-#### Installation
+#### Installationd
 ---
 #### Installing golang
 Golang versiong : >= 1.11 
